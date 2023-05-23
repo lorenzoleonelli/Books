@@ -35,7 +35,10 @@ The **laws of leadership** are:
 graph LR
 A(Model the Way) --> B((Clarify Values)) 
 A --> C((Set Examples)) 
-B --> D(Ciao Pippo / Ciao Pluto / Ciao Scisio)
+B --> D(Values are our compass)
+B --> E(Leading means expressing well)
+B --> F(Personal Values drive committment / Common understanding of values emerges from a process)
+C --> G(Lead by Example / Live the Shared Values / - Use relevant Language / - Seek Feedback / **Tell Stories**)
 
 
 
