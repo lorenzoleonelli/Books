@@ -25,3 +25,22 @@ Poles possible combinations:
 |Pragmatism| Bilateral and Combined|5 | Balance|
 |Creativity| Bilateral and Combined|6 | Combinations|
 |Creativity| Bilateral and Combined|7 | Synthesis|
+
+In practice (2nd part of the book):
+- Strategic Agility
+- Specializing while working together
+- Directing an Organization without putting it in a straitjacket
+- The obsession with measurment and the limitation of KPIs
+- Change and Continuity: the old and the new
+- Adaptability, Versatility and Identity
+- Polarization and Tribal Wars
+- Paradoxical Interventions: doing the opposite of what we want to achieve
+- The power of what is hidden in the shadows
+- How Diversity can help achieve better results
+- Creativity and Innovation: a Widing Road
+- The Inner Compass
+- How to shape the paradoxical Dialogue
+- Cought in the Middle: Reconciling Different Words
+- The Paradoxically Competent Professional and Manager
+- The Paradoxical Skill Set
+- The Paradoxical Competent Organization
