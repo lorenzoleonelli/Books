@@ -1,4 +1,3 @@
-
 ##### Dale Carnegie
 ## How to Win Friends and Influence People
 ####  1937
