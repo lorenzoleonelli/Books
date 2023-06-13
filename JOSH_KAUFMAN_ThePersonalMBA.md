@@ -47,19 +47,7 @@
 
 12 ways to create value:
 
-```mermaid
-graph LR
-A(Model the Way) --> B((Clarify Values)) 
-A --> C((Set Examples)) 
-B --> D(Values are our compass)
-B --> E(Leading means expressing well)
-B --> F(Personal Values drive committment)
-B --> G(Common understanding of values emerges from a process not a pronouncement)
-C --> H(Lead by Example)
-C --> I(Live the Shared Values)
-C --> L(Use relevant Language)
-C --> M(Seek Feedback)
-C --> N(Tell Stories)
+
 
 
 
