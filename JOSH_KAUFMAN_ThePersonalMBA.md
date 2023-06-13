@@ -47,8 +47,32 @@
 
 12 ways to create value:
 
-
-
-
+```mermaid
+graph LR
+A(Value Creation) --> B(Product) 
+B --> AA(A tangible form of value)
+A --> C(Service) 
+C --> AB(Helping or assisting someone in exchange of a fee)
+A --> D(Shared Resource)
+D --> AC(A durable asset that can beused by many people)
+A --> E(Subscription)
+E --> AD(Provides predefined benefits on an ongoing basis in exchange for a recurring fee)
+A --> O(Resale)
+O --> AE(Acquisition of an asset from a wholesaleseller followed by the sale to a buyer at an higher higher price)
+A --> F(Lease)
+F --> AF(Acquiring an asset and then allow another person to use that asset for a predefined amount of time in exchange for a fee)
+A --> G((Agency))
+G --> AG(Marketing and Sale of an Asset you don't own)
+A --> H(Audience Aggregation)
+H --> AH(Collecting the attention of a group of people with similar characteristics then setting access to that audience for a 3rd party)
+A --> I(Loan)
+I --> AI(Agreement to let the borrower use a certain amount of resources for a certain period of time)
+A --> L(Option)
+L --> AL(Ability to take a predefined action for a fixed period of time in exchange for a fee)
+A --> M(Insurance)
+M --> AM(Transfer of Risk from purchaser to seller)
+A --> N(Capital)
+N --> AN(Purchasing of an ownership stake in a business)
+```
 
 >**People do not trade money for things when they value their money more highly than they value the things (H. Williams)**
