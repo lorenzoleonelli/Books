@@ -76,3 +76,71 @@ N --> AN(Purchasing of an ownership stake in a business)
 ```
 
 >**People do not trade money for things when they value their money more highly than they value the things (H. Williams)**
+
+>**People do not trade money for things when they value their money more highly than they value the things (Van Gogh)**
+
+**Perceived Value** determines how much your customers will be willing to pay for what you are offering.
+**Bundling** allows to repurpose value that you have already created to create even more value.
+
+Do not be shy about showing potential customers your work in progress. Ideas are cheap, what counts is the ability to translate an idea in reality. It is almost always good to get feedback from real customers.
+ >**I have not failed, I have just found 10.000 ways that do not work (T. Edison)**
+
+ >**No business plan survives the first contact with customers (S.G.Blank)**
+
+```mermaid
+graph LR
+A(How to maximize the value of a feedback) --> B(Get feedback from real potential customers instead of friends and family) 
+A --> C(Ask open-ended questions) 
+A --> D(Steady yourself and keep calm)
+A --> E(Take what you hear with a grain of salt)
+A --> O(Give potential customers the opportunity to preorder)
+```
+
+ >**The moment that one definitely commits oneself, the providence moves to (W.H.Murray)**
+ 
+ >**I can't give you a surefire formula for success, but I can give you a formula for failure: try to please everybody all time (H.B.Swope)**
+
+ A **Trade Off** is a decision that places a higher value on one of several competing options.
+ Paying attention to the **patterns** behind what your best customers value, you'll be able to focus on improving your offering for most of your best potential customers.
+ 
+```mermaid
+graph LR
+A(Economic Values) --> B(Convenience) 
+B --> AA(Efficacy)
+B --> AB(Speed)
+B --> AC(Reliability)
+B --> AD(Ease of use)
+B --> AE(Cost)
+A --> C(Fidelity) 
+C --> AF(Flexibility)
+C --> AG(Status)
+C --> AH(Aesthetic Appeal)
+C --> AI(Emotion)
+
+```
+
+**Shadow Testing** consists in selling an offering before it actually exists. It is used to get feedbacks.
+ **Mevo (Minimum Economically Valuable Offer)** provides the smallest number of benefits necessary to produce an actual sale.
+ 
+  >**If you are not embarrassed by the 1st version of your product, you've launched too late (R. Hoffmann)**
+
+Make and test changes quickly and incrementally (**Incremental Augmentation**)
+Using what you make every day is the best way to improve the quality of what you are offering. Become the most demanding customer of your product.
+
+Without marketing no business can survive. Marketing is the art of finding **prospects**: people who are actively interested in what you have to offer.
+
+The form of your message has a big influence on how receptive people are to the information it contains.
+
+  >**Advertising is the tax you pay for being unremarkable (R. Stephens)**
+  >**People do not buy quarter inch drills, they buy quarter inch holes (T. Levitt)**
+
+In marketing the **End Result** is what matters most, which is usually a distinctive experience or emotion related to a core human drive. If your marketing activity do not produce some visceral feelings of desire in your prospects you are wasting your time and money.
+**Framing** is the act of emphasizing the details that are critically important while de-emphasizing things that aren't.
+A **Hook** is a single phrase or sentence that describes an offer's primary benefit.
+A **Call to Action** consists in attracting a prospect's attention.
+
+  >**Don't make me think (S. Kurg)**
+  
+   >**If you want an audience start a fight (Irish Proverb)**
+
+**Reputation** is what people generally think about a particular offer or company. 
