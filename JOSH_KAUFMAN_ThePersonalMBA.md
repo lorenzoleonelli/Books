@@ -144,3 +144,10 @@ A **Call to Action** consists in attracting a prospect's attention.
    >**If you want an audience start a fight (Irish Proverb)**
 
 **Reputation** is what people generally think about a particular offer or company. 
+Building your reputation takes time and effort , but is the most effective kind of marketing there is.
+>**There is only one boss: the customer. And he can fire everybody in the company from the chairman on down ...  (J. Walton)**
+
+A **Transaction** is an exchange of value between two or more parties.
+>**A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece (L. Herard)**
+
+Common ground is a precondition of any type of transaction. Without any area of overlapping interest there is no reason for a prospect to chose to work with you. 
