@@ -217,4 +217,27 @@ The less human involvement required to create and deliver value, the more scalab
 **Profit** is what allows businesses to continue to stay in operation.
 >**You can have everything you want in this life if you help enough other people get what they want (Z. Ziglar)**
 
+```mermaid
+graph LR
+A(4 Methods to increase revenue) --> B(Increase the number of customers you serve) 
+A --> C(Increase the average size of each transaction by selling more) 
+A --> D(Increase the frequency of transactions per customer) 
+A --> E(Raise your prices) 
 
+```
+
+The higher the **Lifetime Value** of your customer, the more you can do to keep them happy. Maintain a long term relationship with profitable customers !
+**Overhead** represent the minimum ongoing resources required for a business to continue operations.
+
+>**You have to spend money to make money**
+
+**Purchasing Power** is the sum total of all liquid assets a business has at its disposal.
+
+**Receivable** are the promises of payment you have received from others and **Debt** is a promise you make to pay someone at a later date.
+**Opportunity Cost** is the value you are giving up by making a decision.
+
+**Absence Blindness** is the hard time human have in paying attention to what's not present.
+
+**leverage** is the practice of using borrowed money to magnify potential gains.
+**Bootstraping** is the art of building and operating a business without Funding, maintaining 100% of business operations.
+**Sunk Costs** are investments of time, energy and money that can't be recovered once thay have been made.
