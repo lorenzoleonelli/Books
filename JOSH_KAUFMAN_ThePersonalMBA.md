@@ -151,3 +151,60 @@ A **Transaction** is an exchange of value between two or more parties.
 >**A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece (L. Herard)**
 
 Common ground is a precondition of any type of transaction. Without any area of overlapping interest there is no reason for a prospect to chose to work with you. 
+
+The **Pricing uncertainty principle** states that all prices are arbitrary.
+>**Price is what you pay, value is what you get (W. Buffet)**
+
+The 4 possible **pricing methods** are:
+1. Replacement cost
+2. Market Comparison
+3. Discounted Cash Flow(DCF) / Net Present Value (NPV)
+4. Value Comparison
+
+**Education Based Selling** is the process of making your prospects better, more informed customers. By investing energy in making your prospects smarter, you simultaneously build trust in your expertise and make them better customers.
+**Next best alternative** is what you'll do in the event you can't find a common ground with the party you are negotiating with. The more acceptable alternatives you have, the better your position.
+
+The 3 universal alternatives are:
+1. Resources
+2. Time 
+3. Flexibility
+
+The 3 steps of **3D Negotiation** are:
+1. Setup (Who has the power)
+2. Structure (What is NBA (Next Best Alternative)
+3. Discussion (Real Talk)
+
+>**Gifts are never free: they bind the giver and the receiver in a loop of reciprocity (M. Mauss)**
+Providing **free value** builds your social capital.
+
+5 standard objections that appear in sales:
+1. It costs too much (loss aversion)
+2. It won't work
+3. It won't work for me
+4. I can wait
+5. It is too difficult
+
+**Reactivation** is the process of causing past customers to buy from you again.
+
+>**A satisfied business customer is the best business strategy of all (M. Leboeuf)**
+
+The longer the **process** the higher the risk of things going wrong.
+
+The 2 possible distribution channels are:
+1. Direct to User
+2. Intermediary
+
+>**Never promise more than you can perform (P. Syrus)**
+
+Quality = Performance - Expectations
+
+Offer Predictability is given by:
+1. Uniformity
+2. Consistency
+3. Reliability
++ Reputation
++ Value Perception
+
+**Throughput** (which should always be measured) represents the rate at which a system achieves its desired goal.
+
+**Duplication** is the ability to reliably reproduce something of value.
