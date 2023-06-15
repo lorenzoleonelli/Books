@@ -208,3 +208,13 @@ Offer Predictability is given by:
 **Throughput** (which should always be measured) represents the rate at which a system achieves its desired goal.
 
 **Duplication** is the ability to reliably reproduce something of value.
+
+The less human involvement required to create and deliver value, the more scalable the business.
+**Tools** are important because they multiply the effect of physical force, thought or attention. Th more a tool amplifies or concentrates your effort, the more effective the tool.
+>**If you can't describe what you are doing as a process, you don't know what you are doing (E. Deming)**
+
+**Finance** is the art and science of watching the money flowing into and out of a business, then decide to allocate it and determining whether or not what you are doing is producing the results you want.
+**Profit** is what allows businesses to continue to stay in operation.
+>**You can have everything you want in this life if you help enough other people get what they want (Z. Ziglar)**
+
+
