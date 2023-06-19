@@ -241,3 +241,57 @@ The higher the **Lifetime Value** of your customer, the more you can do to keep 
 **leverage** is the practice of using borrowed money to magnify potential gains.
 **Bootstraping** is the art of building and operating a business without Funding, maintaining 100% of business operations.
 **Sunk Costs** are investments of time, energy and money that can't be recovered once thay have been made.
+
+ROI = (Net Income/Investment Cost) x 100
+
+Hierarchy of fundings:
+1. Public Stock Offering
+2. Venture Capital
+3. Angel Capital
+4. Receivable Financing
+5. Bonds
+6. Secured Loans
+7. Unsecured Loans
+8. Personal Loans
+9. Personal Credit
+
+****
+>**Every man is a quotation from all his ancestors (R.W. Emerson)**
+
+>**Whatever an individual or a business decides  that success has been attained , progress stops(T.J.Watson)**
+
+People are generally **lazy**, being leazy is a feature, not a bug.
+Change your environment and you'll be amazed how drastically your behavior will change in response.
+**Reorganization** is the random action that occurs when a reference level is violated but you don't know what to do to bring the perception back under control.
+**Mental Simulation**is our minds ability to imagine taking a specific action, then simulating the probable result before acting.
+**Motivation** is an emotion, not a logical rational activity.
+
+What is **loss aversion** ? People hate to lose things more than they like to gain them.
+
+Dunban's number (150) is a theoretical cognitive limit on the number of social relationships humans can maintain at one time. (Cognitive Scope Limitation).
+
+The human mind stores information contextually, including cues like environment and correlation. Because the brain is a a pattern matching machine it is constantly trying to figure out what's associated with what.
+**Absence Blindness** is a cognitive bias that prevent us from identifying what we can't observe. Our perceptual faculties evolved to detect objects that are present in the environment.
+Our perceptual faculties are optimized to notice contrast, not to compare what we perceive with things that aren't there. **Framing** is a way to control the perception of contrast.
+
+People typically prefer the government to act, even if the action the government takes ultimately make things worse. 
+
+Scarcity encourages people to make decisions quickly, it is one of the things that naturally overcomes our tendency to conserve. Loss aversion ensures that this possibility feels bad enough to prompt us to take action now.
+
+```mermaid
+graph LR
+A(Elements of Scarcity) --> B(Limited Quantities) 
+A --> C(Price Increases) 
+A --> D(Price Decreases) 
+A --> E(Deadlines) 
+
+```
+
+```mermaid
+graph LR
+A(4 ways to do something) --> B(Completion) 
+A --> C(Deletion) 
+A --> D(Delegation) 
+A --> E(Deferment) 
+
+```
