@@ -295,3 +295,33 @@ A --> D(Delegation)
 A --> E(Deferment) 
 
 ```
+Having a list of 2 or 3 MIT (Most Important Tasks) helps you maintain a monoideal state, by giving you permission to say no to interruptions that aren't as important.
+**S**et
+**P**ositive
+**I**mmediate
+**C**oncrete
+**S**pecific
+**G**oals
+
+**Emotional Experiences** aren't achievements (and shouldn't be set as achievements) because they fluctuate over time (you can be happy right now and upset an hour from now)
+
+>**We are what we repeatedly do. Excellence then is not an cat, but a habit (W. Durant)**
+
+Habits are regular actions that support us. Due to the power of accumulation, small habits can add up to huge results over time.
+A **Decision** is the act of committing to a specific plan of action.
+**Self-elicitation** is the practice of asking yourself questions then answering them. By asking yourself good questions you can grasp important insights or generate new ideas very quickly.
+
+ >**Work expands so as to fill the time available for its completion (C.N. Parkinson)**
+The more incompetent a person is, the less they realize they are incompetent. The more a person actually knows, the better their ability to self-assess their capabilities.
+
+```mermaid
+graph LR
+A(Dunning Kruger effect) --> B(Incompetent Individuals tend to overestimate their own level of skill) 
+A --> C(Incompetent Individuals fail to recognize genuine skill in others) 
+A --> D(Incompetent Individuals fail to recognize the extremity of their inadeguacy) 
+A --> E(If they are trained, these individuals recognize their previous lack of skill) 
+
+```
+**Confirmation Bias** is the general tendency for people to pay attention to information that supports their conclusion and ignore information that doesn't.
+****
+
