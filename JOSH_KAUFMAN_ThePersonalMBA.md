@@ -324,4 +324,83 @@ A --> E(If they are trained, these individuals recognize their previous lack of 
 ```
 **Confirmation Bias** is the general tendency for people to pay attention to information that supports their conclusion and ignore information that doesn't.
 ****
+The Elements of Power:
+1. **Influence**: the ability to encourage someone else to want what you suggest.
+2. **Compulsion**: the ability to force someone else to do what you command.
 
+Power is a neutral tool (it can be used for good or ill). Power represents the ability to get things done through other people: the more power you have the more things you can do.
+The best way to increase your power is to do things that increase your influence and reputation. The more people know your capabilities and respect the reputation you've built, the more power you'll have.
+**Comparative advantage** means it's better to capitalize your own strengths than to show up your weaknesses.
+Large companies are slow because they suffer from **communication overhead**. If you want your team to perform at its best make your team as small and autonomous as possible.
+ 
+ >**The deepest principle in human nature is the craving to be appreciated (W. James)**
+
+The 8 symptoms of bureaucratic breakdown (communication overhead):
+1. The invisible decision
+2. Unfinished Business
+3. Coordination Paralysis
+4. Nothing new
+5. Pseudo-problems
+6. Embattled Center
+7. Negative deadlines
+8. Input Domination
+
+```mermaid
+graph LR
+A(If you want others feel important and safe around you, treat them with) --> B(Appreciation) 
+A --> C(Courtesy) 
+A --> D(Respect) 
+
+```
+ >**Civilization advances by extending the number of operations we can perform without thinking (A.N. Whitehead)**
+
+Over time you become more and more like those you spend time with , and less like people in other groups. **Convergence** is the tendency of group members to become more alike over time. **Divergence** is the tendency for groups to become less like other groups over time.
+**Social Signals** are tangible indicators of some intangible quality that increases a person social status or group affiliation.
+
+ >**We find comfort among them who agree with us, and growth among those who don't (F.A. Clark)**
+
+Remind yourself to keep an open mind , and you'll enhance your ability to make wise decisions.
+Let others know you expect great work from them and they'll do their best to line up with your expectations.
+***
+Businesses are complex systems that exists within even more complex systems: markets, industries, societies.
+**Gall's law:** all complex systems that work evolved from simple systems that worked. Complex systems are full of variables and interdependencies that must be arranged just right in order to function.
+An **Environment** is the structure in which a system operates.
+Selection tests are ruthless: satisfy them and you'll thrive. Fail to adapt to changing conditions and you'll die.
+ >**There are known knowns. These are things we know that we know. There are known unknowns: things that we know we don't know. But there are also unknown unknowns: things we don't know we don't know  (D. Rumsfeld)**
+
+ >**It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change  (C. Darwin)**
+
+Because of our natural pattern matching abilities , we tend to see patterns were none exist and tend to attribute random changes to skill if they are good and misfortune if they are bad.
+A dependency is an input that's required before the next stage of a process can take place. The more dependencies there are in a system, the higher the likelihood of delay or system failure
+
+ >**The man who makes everything that leads to happiness depend upon himself, and not upon other man, has adopted the very best plan for living happily  (Plato)**
+
+**Counterparty Risk** is the possibility that other people won't deliver what they have promised. Counterparty Risk is amplified by the planning fallacy.
+>**The problem is not that there are problems. The problem is expecting otherwise and thinking that having problems is a problem  (T. Rubin)**
+
+Theory of Normal Accidents <-> Shit happens
+****
+
+**Deconstruction** is the process of separating complex systems into the smallest possible subsystems in order to understand how things work.
+ >**In God we trust … all others bring data  (M. Deming)**
+
+**Measurement** helps us avoid **absence blindness** when analyzing a system. We have hard time seeing things that aren't present.
+Without data you are blind. If you want to improve anything, you must measure it first.
+ >**It is better to have an approximate answer to the right question than an exact answer to the wrong question  (J. Tukey)**
+
+Garbage IN -> Garbage out
+Useful analytical tools: Means, Medians, Modes, Midranges
+**Correlation** is not **Causation**
+ >**Those who cannot remember the past are condemned to repeat it  (G. Santayana)**
+
+A **Proxy** measures one quality by measuring something else.
+**Segmentation* is a technique that involves splitting a data set into well-defined sub-groups to add additional context.
+**Humanization** is the process of using data to tell a story (narrative) about a real person's experience or behavior. Don't just present data: tell a story that helps people understand what's happening, and you'll find your analysis effort more useful.
+***
+**Refactoring** is the process of changing a system to improve efficiency without changing the output of the system.
+Critical few (= Pareto law): in any complex system a minority of the inputs produce the majority of the output.
+
+All good things are subject to **Diminishing Returns** after a certain point, having more of something can actually be detrimental.
+**Automation** refers to a system or process that can operate without human interventions.
+**Paradox of Automation**: the more efficient the automated system, the more crucial the contribution of the human operators, of that system.
+**Standard Operating Procedure (SOP)** is a predefined process used to complete a task or resolve a common issue.
